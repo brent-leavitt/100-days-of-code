@@ -9,6 +9,8 @@
 **Questions/Issues for Research:** 
 * I need to study code on how to add custome Capabilities and Roles to wordpress programatically. I have been using a plugin to setup capabilities for our user database.
 
+**Link(s) to work**: [NB Doula Course plugin](https://github.com/brent-leavitt/nb-doula-course)
+
 ----
 
 ### Day 0: February 30, 2016 (Example 2)
