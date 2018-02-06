@@ -1,13 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 6, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Created two GitHub Repos! Continued working on localhost version of updated NB_doula_course plugin. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Today really felt more like organization than actual coding work. I'm recommitting myself to the #100DaysOfCode challenge to get at least one hour of code in each day.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Questions/Issues for Research:** 
+* I need to study code on how to add custome Capabilities and Roles to wordpress programatically. I have been using a plugin to setup capabilities for our user database.
+
+----
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
