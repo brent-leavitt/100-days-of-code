@@ -19,14 +19,28 @@
 **Thoughts**: Turns out working with and adding Roles in Caps in wordpress is super-easy programmatically. There will be more to do here tomorrow. 
 
 
+### Day 3: Thursday, February 9, 2018
+
+**Today's Progress**: Started off elsewhere and then spent some time looking into how users are managed in WordPress Multisite. Not really any actual coding, more just studying of existing structures. 
+
+**Thoughts** I'm surprised at how little documentation there actually is about how users are managed in multisites. 
+
+
 ----
 
-### Day 1: June 27, Monday
+(Tempate Below)
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 0: Month 00, Day
+
+**Today's Progress**: Text goes here
+
+**Thoughts** Text goes here. 
+
+**Questions/Issues for Research:** 
+* Question goes here?0
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Webpage TItle](https://www.example.com/)
+2. [Webpage TItle](https://www.example.com/)
+
