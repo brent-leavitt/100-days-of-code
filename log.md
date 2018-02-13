@@ -41,6 +41,28 @@
 **Link(s) to work**
 
 1. [Understanding Users in Multisites for Plugin Development](https://premium.wpmudev.org/forums/topic/understanding-users-in-multisites-for-plugin-development?replies=2#post-1300415)
+
+
+### Day 5: Saturday, February 10, 2018
+
+**Today's Progress**: I spent an hour in the evening doing FreeCodeCamp tutorials. 
+
+**Thoughts** Learning Javascript! It's about time. 
+
+
+
+### Days 6 & 7: Monday, February 12, 2018
+
+**Today's Progress**: I finally got into a good groove late this evening with the code after spending most of the day tweeking sites in WordPress
+
+**Thoughts** I really should be spending most of my day coding. I'm noting the PHP or WordPress functions that I had to look up so I can study and become more familiar with them. 
+
+**Questions/Issues for Research:** 
+* PHP functions: strstr(), strpos(), trim(), ob_start(), ob_get_contents(), ob_end_clean()
+* WordPress Functions: get_user_meta(), wp_mail(), $wpdb->base_prefix
+
+
+
 ----
 
 (Tempate Below)
