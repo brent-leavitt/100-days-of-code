@@ -62,6 +62,35 @@
 * WordPress Functions: get_user_meta(), wp_mail(), $wpdb->base_prefix
 
 
+### Day 8: Tuesday, February 13, 2018
+
+**Today's Progress**: Continued work on the NB_USER plugin
+
+**Thoughts** Keeping things simple. 
+
+**Questions/Issues for Research:** 
+* PHP functions: key(), substr(), strlen(), intval()
+
+
+
+
+### Day 9: Wednesday, February 14, 2018
+
+**Today's Progress**: Continued work on NB_USER plugin
+
+**Thoughts** Not much to report, only got a little bit done before dinner. 
+
+
+
+
+### Day 10: Thursday, February 15, 2018
+
+**Today's Progress**: Continued Development on NB_USERS plugin
+
+**Thoughts** Started with the end goal in mind and then I started coding backwards today. That worked much better because I could see where I was going and what I needed to get the end result.  
+
+**Questions/Issues for Research:** 
+* PHP functions: key_exists()
 
 ----
 
@@ -75,7 +104,8 @@
 **Thoughts** Text goes here. 
 
 **Questions/Issues for Research:** 
-* Question goes here?0
+* PHP functions: 
+* WordPress Functions: 
 
 **Link(s) to work**
 1. [Webpage TItle](https://www.example.com/)
